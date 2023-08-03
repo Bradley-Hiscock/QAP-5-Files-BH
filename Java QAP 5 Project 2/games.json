@@ -1,0 +1,8 @@
+[
+    {"title": "Dark and Darker", "genre": "extraction", "camera": "First Person", "multiplayer": "Y", "price": 34.99, "released": false},
+    {"title": "Dead by Daylight", "genre": "asymmetrical survival/horror", "camera": "First Person / Third Person", "multiplayer": "Y", "price": 8.79, "released": true},
+    {"title": "World of Warcraft", "genre": "MMORPG", "camera": "Third Person", "multiplayer": "Y", "price": 54.99, "released": true},
+    {"title": "Black Desert Online", "genre": "MMORPG", "camera": "Third Person", "multiplayer": "Y", "price": 12.99, "released": true},
+    {"title": "Hollow Knight", "genre": "metroidvania", "camera": "Sidescroller", "multiplayer": "N", "price": 19.49, "released": true},
+    {"title": "Escape from Tarkov", "genre": "extraction", "camera": "First Person", "multiplayer":"Y", "price": 44.99, "released":true}
+]
